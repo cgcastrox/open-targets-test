@@ -2,7 +2,7 @@
 
 ## Before doing anything [Requirements]
 
-**Step 1: Install Python3 and Jupyter**
+**Install Python3 and Jupyter**
 
 Please follow the instructions in the following guide to install Python and Jupyter
 https://jupyter.org/install
@@ -16,4 +16,4 @@ https://spark.apache.org/docs/latest/api/python/getting_started/install.html
 
 # 2. Run the script
 
-Please follow the instructions in the .ipynb file to process the evidence and target files.
+The .ipynb contains all the instructions to process the evidence and target files.
